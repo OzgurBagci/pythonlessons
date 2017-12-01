@@ -1,0 +1,1 @@
+Jupyter Notebook'u açmak için üzerine tıklayınız ya da cmd'ye tırnak işaretleri olmadan "jupyter notebook" yazınız. Dosyayı indiriniz ve browserdan bulunduğu dizine gidiniz. Kaymalar duzeltildi. Github'dan da acip bakabilirsiniz ancak kodlari calistiramazsiniz.
